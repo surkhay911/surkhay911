@@ -14,8 +14,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surkhay911&repo=landing_page-for-lidsandpoint)](https://github.com/surkhay911/landing_page-for-lidsandpoint)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surkhay911&repo=dataset_for-heart.csv)](https://github.com/surkhay911/dataset_for-heart.csv)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surkhay911&repo=Create-js-content)](https://github.com/surkhay911/Create-js-content)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=surkhay911&repo=different-web-examples)](https://github.com/surkhay911/different-web-examples)
 
 
 [![codewars](https://www.codewars.com/users/surkhay/badges/large)](https://www.codewars.com/users/surkhay) 
